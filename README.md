@@ -25,7 +25,7 @@ You can run the chatbot directly in Google Colab without installing anything.
 ---
 
 ## Example Of The Chat
-![Chatbot Example](./chatbot.png)
+![Chatbot Example](./Chatbot.png)
 
 ## ُء
 
