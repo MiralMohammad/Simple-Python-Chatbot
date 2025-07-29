@@ -17,7 +17,7 @@ Perfect for beginners who want to learn how chatbots work without using machine 
 ---
 
 ## 🕹️ How to Use
- ###Run in Google Colab
+ Run in Google Colab:
 
 You can run the chatbot directly in Google Colab without installing anything.
 
