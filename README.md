@@ -2,7 +2,6 @@
 
 This is a **simple rule-based chatbot** built using Python. It takes user input via the terminal (or Google Colab), matches it to predefined responses, and replies accordingly.
 
-Perfect for beginners who want to learn how chatbots work without using machine learning or external APIs.
 
 ---
 
